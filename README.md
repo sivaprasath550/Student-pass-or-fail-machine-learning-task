@@ -2,9 +2,9 @@ This project implements a simple machine learning model to predict student resul
 
 Data:-
 The dataset used in this project consists of the following features:
-study hours: Number of hours a student studied.
-attendance: Percentage of attendance.
-marks: Marks obtained by the student.
+ Number of hours a student studied,
+ Percentage of attendance,
+ Marks obtained by the student.
 The target variable is result, which indicates whether a student passes (1) or fails (0).
 
 Model:-
